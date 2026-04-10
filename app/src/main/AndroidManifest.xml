@@ -1,1 +1,7 @@
 
+<manifest package="com.sovereign.controller">
+ <uses-permission android:name="android.permission.BIND_DEVICE_ADMIN" />
+ <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+ <application android:label="Mohmmad Controller">
+ </application>
+</manifest>
